@@ -23,6 +23,6 @@ Entusiasta de Linux, utilizo um ambiente customizado (XFCE4 + i3wm) para maximiz
 ## 📈 Estatísticas de Desenvolvimento
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiogoDomi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoDomi&layout=compact&theme=tokyonight"/>
 </div>
